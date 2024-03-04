@@ -1,0 +1,56 @@
+html {
+    padding: 5px;
+    margin: 5px;
+}
+body {
+    background-color: whitesmoke;
+}
+
+div {
+    background-color: white;
+    padding: 5px 15px 5px 15px
+}
+
+div .title {
+    font-size: 48px;
+    font-weight: bolder;
+    font-style: italic;
+    color: white;
+    font-family: Helvetica sans-serif;
+    background-color: #476072;
+    padding: 8px 8px;
+    text-align: center;
+}
+
+ul {
+    display: flex;
+    background-color: #548CA8;
+    padding: 10px 10px ;
+}
+
+li {
+    display: block;
+    color: black;
+    width:  auto;
+    margin: auto;
+}
+
+.special {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    padding: 5px;
+}
+
+button {
+    padding: 10px;
+    
+}
+a:hover{
+    color: blue;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
